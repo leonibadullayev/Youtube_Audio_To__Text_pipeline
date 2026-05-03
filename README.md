@@ -1,4 +1,4 @@
-# Azerbaijani Speech Dataset Pipeline
+# Youtube Speech Dataset Pipeline
 
 An automated pipeline for building Azerbaijani (az) speech-to-text datasets from YouTube videos. The pipeline downloads audio from playlists or individual videos, isolates vocals from background music, removes silence, extracts transcription text from subtitles or ASR, and outputs paired audio–text samples in a format ready for fine-tuning speech recognition models.
 
