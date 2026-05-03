@@ -1,0 +1,10 @@
+yt-dlp
+requests
+soundfile
+numpy
+torch
+torchaudio
+whisperx @ git+https://github.com/m-bain/whisperX.git
+noisereduce
+demucs
+selenium
